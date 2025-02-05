@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+streamlit
+langchain_ollama
+openai
