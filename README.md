@@ -1,1 +1,1 @@
-# QA-Chatbot-Using-OpenAI-and-Ollama
+# Q&A Chatbot Using OpenAI and Ollama
