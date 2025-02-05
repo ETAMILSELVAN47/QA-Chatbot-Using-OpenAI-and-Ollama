@@ -4,5 +4,3 @@ Applink: https://app-chatbot-using-openai-and-ollama-3kyeii3ekoodnbn9e3fm5q.stre
 
 
 ![alt text](image.png)
-
-
